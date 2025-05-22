@@ -13,3 +13,7 @@ Clean and minimal design
 
 🚀 How to Use
 Clone the repository: https://github.com/11florin/Grid.git
+
+License
+
+This project is open source and available under the [MIT License](LICENSE).
